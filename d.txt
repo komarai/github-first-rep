@@ -1,2 +1,1 @@
-fhjfejwfwe
-git diff explaineddiff cehck furtherjunkiewafedfedfgsdgrsmy first branch edit test
+conflict test from second branch
