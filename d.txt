@@ -1,3 +1,7 @@
+
 fhjfejwfwe
 git diff explaineddiff cehck furtherjunkiewafedfedfgsdgrsmy first branch edit test
 this is edit for conflict
+
+conflict test from second branch
+
