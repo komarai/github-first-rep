@@ -1,3 +1,7 @@
 This is another sample code change
+<<<<<<< HEAD
+fdsafsaaa
+=======
 
 Conflict edit
+>>>>>>> 0c4797c523b3cf2f6708c3b91a076bd4d7ae2299
